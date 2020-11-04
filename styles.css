@@ -1,0 +1,22 @@
+
+body{
+    margin: 0;
+    background-color: #201E1F;
+    font-family: 'Turret Road', cursive;
+
+}
+img{
+    width: 30%;
+    margin: 1.666%;
+     cursor: pointer;
+}
+
+nav{
+    font-size: 1.5em;
+   text-transform: uppercase;
+   color: aliceblue;
+   border-bottom: 2px solid;
+   width: 30%;
+    margin: 1.666%;
+    padding: 1em 0;
+}
